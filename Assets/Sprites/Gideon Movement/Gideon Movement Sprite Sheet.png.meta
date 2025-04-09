@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: d7621fb1631904d41a59e136dd6256bd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdc2dfac2ede4c1abb45c02a2f47759
+      internalID: 498622452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce77a1ec22ef48edbbb9be05fa2a8ab
+      internalID: 1671292562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975d1031c4b234b9cb72cf2a4e6c7b9f
+      internalID: 1203246769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77a6282298584bbea88c01d14176629
+      internalID: -775929306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b849097e7567f476f94dbdaa32017291
+      internalID: -2040719720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69f3f25204c64abb8e6eef35c89bfec
+      internalID: 37370795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb321c6d20034504aaaaafe2e80092a
+      internalID: -19969307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 5152
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1173b5c9e44264eaab713c457e351edf
+      internalID: -1095514866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a30283d2cde42b3b3e81138968ee83
+      internalID: -1746463445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 6624
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164c78a8c26af41d7b15ae71f9815a4c
+      internalID: 830825133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee6285ee327b4031bddfe7db81995c4
+      internalID: 696802546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 8096
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ad52aa7cd4049419bc8521dcd40854
+      internalID: -1444701150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 8832
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd55fa01d7ee4357a7ab73b780aed3c
+      internalID: 1447924278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 9568
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dea28936f1f04681a7a76538edebb98
+      internalID: 1259955870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 10304
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db66a7c87fc554f51b1e303880d68ee3
+      internalID: 1509932787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 11040
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1bfe5c9d85249aa80afc51c3e00d20
+      internalID: 402644941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 11776
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57de0dbaf30ed46199b354940ea9b7a0
+      internalID: -671516733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gideon Movement Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 12512
+        y: 0
+        width: 736
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a73a50960c8a49efa9fe994d76d8447
+      internalID: 320442032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gideon Movement Sprite Sheet_0: 498622452
+      Gideon Movement Sprite Sheet_1: 1671292562
+      Gideon Movement Sprite Sheet_10: 696802546
+      Gideon Movement Sprite Sheet_11: -1444701150
+      Gideon Movement Sprite Sheet_12: 1447924278
+      Gideon Movement Sprite Sheet_13: 1259955870
+      Gideon Movement Sprite Sheet_14: 1509932787
+      Gideon Movement Sprite Sheet_15: 402644941
+      Gideon Movement Sprite Sheet_16: -671516733
+      Gideon Movement Sprite Sheet_17: 320442032
+      Gideon Movement Sprite Sheet_2: 1203246769
+      Gideon Movement Sprite Sheet_3: -775929306
+      Gideon Movement Sprite Sheet_4: -2040719720
+      Gideon Movement Sprite Sheet_5: 37370795
+      Gideon Movement Sprite Sheet_6: -19969307
+      Gideon Movement Sprite Sheet_7: -1095514866
+      Gideon Movement Sprite Sheet_8: -1746463445
+      Gideon Movement Sprite Sheet_9: 830825133
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
